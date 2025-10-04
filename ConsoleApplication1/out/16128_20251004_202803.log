@@ -1,0 +1,19 @@
+PID: 16128
+Timestamp: 20251004_202803
+Detections: 3
+
+[dword_pattern_match] Integer opcode/pattern match in process memory
+  addr: 0x7ff96f361350
+  conf: 50
+  note: Found DWORD value equal to expected pattern
+
+[dword_pattern_match] Integer opcode/pattern match in process memory
+  addr: 0x7ff96f361320
+  conf: 50
+  note: Found DWORD value equal to expected pattern
+
+[untested_game_client_injection] Injection detected in untested game client
+  addr: 0x0
+  conf: 40
+  note: Pattern checks failed; flagged as injection in untested client
+

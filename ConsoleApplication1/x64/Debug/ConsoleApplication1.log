@@ -1,0 +1,10 @@
+﻿D:\visual studio\ide\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (InjGen.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assembling krnljmper.x64.asm...
+  detection_report.cpp
+  core.cpp
+  proc.cpp
+  scn.cpp
+  mem.hpp
+  Generating Code...
+  krnljmper.c
+  ConsoleApplication1.vcxproj -> D:\InjGen-2.0\x64\Debug\tool.exe

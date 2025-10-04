@@ -1,2 +1,4 @@
-# tool
-just an tool that detecting clients like slinky
+Tested JNI clients:
+
+DoomsDay
+slinky

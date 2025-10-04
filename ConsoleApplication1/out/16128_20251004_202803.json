@@ -1,0 +1,29 @@
+[
+  {
+    "pid": 16128,
+    "id": "dword_pattern_match",
+    "name": "Integer opcode/pattern match in process memory",
+    "addr": "0x7ff96f361350",
+    "snippet": "",
+    "confidence": 50,
+    "note": "Found DWORD value equal to expected pattern"
+  },
+  {
+    "pid": 16128,
+    "id": "dword_pattern_match",
+    "name": "Integer opcode/pattern match in process memory",
+    "addr": "0x7ff96f361320",
+    "snippet": "",
+    "confidence": 50,
+    "note": "Found DWORD value equal to expected pattern"
+  },
+  {
+    "pid": 16128,
+    "id": "untested_game_client_injection",
+    "name": "Injection detected in untested game client",
+    "addr": "0x0",
+    "snippet": "",
+    "confidence": 40,
+    "note": "Pattern checks failed; flagged as injection in untested client"
+  }
+]
